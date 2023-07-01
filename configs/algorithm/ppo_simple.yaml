@@ -1,0 +1,6 @@
+gamma: 0.99
+gae_lambda: 0.95
+ppo_epsilon: 0.1
+actor_coef: 1.0
+critic_coef: 0.5
+entropy_coef: 0.1

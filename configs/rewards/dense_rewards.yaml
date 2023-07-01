@@ -1,0 +1,22 @@
+creation:
+  LIGHT: 0.05
+  HEAVY: 0.01
+movement: 0
+transfer:
+  ice: 100
+  ore: 60
+  water: 0
+  metal: 0
+dig:
+  ice: 50
+  ore: 30
+  rubble: 1
+pickup_power:
+  LIGHT: 0.001
+  HEAVY: 0.00001
+penalty:
+  FACTORY: 50
+  all_factories: 100
+  LIGHT: 3
+  HEAVY: 10
+win_coef: 1.0

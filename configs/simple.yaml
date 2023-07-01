@@ -1,0 +1,4 @@
+defaults:
+  - algorithm: ppo_simple.yaml
+  - rewards: dense_rewards.yaml
+  - agent_net: simple_net.yaml

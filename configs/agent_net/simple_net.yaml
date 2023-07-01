@@ -1,0 +1,8 @@
+global_feature_dims: 1
+map_channel: 19
+emb_dim: 5
+res_channel: 64
+n_res_blocks: 7
+n_actions:
+  robot: 13
+  factory: 4
